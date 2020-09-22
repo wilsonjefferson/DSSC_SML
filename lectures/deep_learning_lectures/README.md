@@ -1,6 +1,6 @@
 ## Deep Learning with [PyTorch](https://pytorch.org/docs/stable/index.html)
 
-**ATTENTION**: This repo was a forked from [this](hhttps://github.com/francescocicala/deep-learning-with-pytorch) repo, so all information here provided are owned by [Francesco Cicala](https://github.com/francescocicala).
+**ATTENTION**: This repo was a forked from [this](https://github.com/francescocicala/deep-learning-with-pytorch) repo, so all information here provided are owned by [Francesco Cicala](https://github.com/francescocicala).
 
 ### aka
 ## How to not waste your time in coding artificial neural networks
