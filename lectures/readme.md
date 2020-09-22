@@ -1,11 +1,10 @@
 # Statistical Machine Learning
 
-If you have any problem or find some errors in the notebooks/homeworks please contact me at: **ginevra.carbone@phd.units.it**
+---
+ATTENTION: This repo, except for the deep learning subfolder, was a forked repo from [Ginevra Carbone repo](https://github.com/ginevracoal/statistical-machine-learning), so all information here provided are owned by her.
+---
 
-## News
-
-- Just updated `homework_01` (there was a typo in exercise 5)
-- Assignments will be uploaded in `homeworks/`.
+If you have any problem or find some errors in the notebooks/homeworks please contact Ginevra Carbone at: **ginevra.carbone@phd.units.it**
 
 ## Useful links
 
