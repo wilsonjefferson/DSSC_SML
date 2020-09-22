@@ -1,8 +1,8 @@
 # Statistical Machine Learning
 
----
-ATTENTION: This repo, except for the deep learning subfolder, was a forked repo from [Ginevra Carbone repo](https://github.com/ginevracoal/statistical-machine-learning), so all information here provided are owned by her.
----
+
+**ATTENTION**: This repo, except for the _deep learning_ subfolder, was a forked repo from [Ginevra Carbone repo](https://github.com/ginevracoal/statistical-machine-learning), so all information here provided are owned by her.
+
 
 If you have any problem or find some errors in the notebooks/homeworks please contact Ginevra Carbone at: **ginevra.carbone@phd.units.it**
 
