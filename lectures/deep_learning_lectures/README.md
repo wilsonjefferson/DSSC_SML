@@ -1,11 +1,13 @@
 ## Deep Learning with [PyTorch](https://pytorch.org/docs/stable/index.html)
 
+**ATTENTION**: This repo was a forked from [this](hhttps://github.com/francescocicala/deep-learning-with-pytorch) repo, so all information here provided are owned by [Francesco Cicala](https://github.com/francescocicala).
+
 ### aka
 ## How to not waste your time in coding artificial neural networks
 
 This repository contains the resources for some practical lessons about the Deep Learning part of the Statistical Machine Learning course, held by Prof. Luca Bortolussi for the MSc students in Data Science and Scientific Computing at the University of Trieste.
 
-My email: francesco.cicala00@gmail.com
+Francesco Cicala email: francesco.cicala00@gmail.com
 
 Lectures index (approximately):
 
