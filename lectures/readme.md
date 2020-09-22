@@ -1,7 +1,7 @@
 # Statistical Machine Learning
 
 
-**ATTENTION**: This repo, except for the [_deep learning_](https://github.com/wilsonjefferson/DSSC_SML/tree/master/lectures/deep_learning_lectures) subfolder, was a forked from [this](https://github.com/ginevracoal/statistical-machine-learning) repo, so all information here provided are owned by [Ginevra Carbone](https://github.com/ginevracoal).
+**ATTENTION**: This repo, except for the [_deep learning_](https://github.com/wilsonjefferson/DSSC_SML/tree/master/lectures/deep_learning_lectures) subfolder, was a forked version of [this](https://github.com/ginevracoal/statistical-machine-learning) repo, so all information here provided are owned by [Ginevra Carbone](https://github.com/ginevracoal).
 
 
 If you have any problem or find some errors in the notebooks/homeworks please contact Ginevra Carbone at: **ginevra.carbone@phd.units.it**
